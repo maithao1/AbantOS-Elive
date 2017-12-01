@@ -257,7 +257,7 @@ First things first. BIOS stands for Basic Input Output System referred to as BIO
 ### What is EFI and UEFI? 
 
 ### What is a Master Boot Record?
-
+The Master Boot Record is the identifier for where the operating system is located. It is the first sector on the disk. Thw MBR consists of the master partition table, disk signature, and master boot code.
 ### What is a GUID partition type? 
 A GUID partition table is a secured system because users can't copy the whole disk. It can be used to relpace MBR partition table.
 
