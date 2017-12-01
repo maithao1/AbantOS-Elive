@@ -259,7 +259,7 @@ First things first. BIOS stands for Basic Input Output System referred to as BIO
 ### What is a Master Boot Record?
 
 ### What is a GUID partition type? 
-It is a new disk architecture that make is more larger on the older Master Boot Record (MBR) partitioning scheme.
+A GUID partition table is a secured system because users can't copy the whole disk. It can be used to relpace MBR partition table.
 
 ### Booting (Mac) from an external USB device
 
