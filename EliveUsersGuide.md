@@ -255,11 +255,11 @@ The archive of release notes on the Beta releases of Elive can be found at http:
 First things first. BIOS stands for Basic Input Output System referred to as BIOS, is software stored on a small memory chip on the motherboard. It give the computer a set of instructions on how to perform some of the basic functions such as booting and keyboard control as well as configure the hardware in a computer including the hard drive, floppy drive, USB, optical drive, CPU, memory to list a few.
 
 ### What is EFI and UEFI? 
-EFI is an advanced computer operating system introduced by Intel. But UEFI is an extensive verion to improve the firmware of the EFI system. These two operating system is used as boot loaders but if deleted it will cause the software to become unbootable.
+EFI is an advanced computer operating system introduced by Intel. But UEFI is an extensive version to improve the firmware of the EFI system. These two operating system is used as boot loaders but if deleted it will cause the software to become unbootable.
 ### What is a Master Boot Record?
-The Master Boot Record is the identifier for where the operating system is located. It is the first sector on the disk. Thw MBR consists of the master partition table, disk signature, and master boot code.
+The Master Boot Record is the identifier for where the operating system is located. It is the first sector on the disk. The MBR consists of the master partition table, disk signature, and master boot code.
 ### What is a GUID partition type? 
-A GUID partition table is a secured system because users can't copy the whole disk. It can be used to relpace MBR partition table.
+A GUID partition table is a secured system because users can't copy the whole disk. It can be used to replace MBR partition table.
 
 ### Booting (Mac) from an external USB device
 
